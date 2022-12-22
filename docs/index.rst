@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to dj-rest-auth's documentation!
-============================================
+============================================|
 
 
 .. note:: dj-rest-auth version 1.0.0 now uses Django Simple JWT.
